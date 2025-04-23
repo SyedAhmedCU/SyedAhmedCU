@@ -1,4 +1,4 @@
--  Hi, I’m @SyedAhmedCU
+Hi, I’m Syed!
 
 I am an Full-Stack Developer with a strong technical foundation in building and deploying scalable, high-impact software solutions. My career has evolved from a solid academic background in Mechanical Engineering, earning a Master’s degree from Carleton University to a dynamic software development role, leveraging my skills in cutting-edge technologies.
 
