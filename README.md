@@ -6,14 +6,14 @@ Most recently, as a Full-Stack Software Developer, I engineered RESTful APIs, op
 
 Key technologies I’ve worked with include:
 
-#Languages: JavaScript, TypeScript, C#, Python
-#Frameworks & Libraries: Node.js, React, Express.js, .NET 
-#Cloud Technologies: AWS (Lambda, EC2, S3, CloudWatch), Docker, Serverless
-#Databases: MongoDB, Neo4j, Redis, MS SQL Server, MySQL
-#Markup Languages: HTML, CSS, XAML
-#DevOps: CI/CD Pipelines, Docker, GitHub Actions
-#Development Tools and Processes: VS Code, Git, Github, Visual Studio, Jira Automation, Slack Automation
-#Agile Practices: Scrum, Jira
+- Languages: JavaScript, TypeScript, C#, Python
+- Frameworks & Libraries: Node.js, React, Express.js, .NET 
+- Cloud Technologies: AWS (Lambda, EC2, S3, CloudWatch, AWS Kinesis Firehose), Docker, Serverless
+- Databases: MongoDB, Neo4j, Redis, MS SQL Server, MySQL
+- Markup Languages: HTML, CSS, XAML
+- DevOps: CI/CD Pipelines, Docker, GitHub Actions
+- Development Tools and Processes: VS Code, Git, Github, Visual Studio, Jira Automation, Slack Automation
+- Agile Practices: Scrum, Jira
 
 I’m continuously expanding my skill set by exploring new technologies, and I’m actively looking for my next opportunity to contribute to a talented team and drive high-quality software delivery.
 
